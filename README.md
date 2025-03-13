@@ -1,4 +1,4 @@
-# Amazon Review Sentiment Analyzer
+# Amazon Reviews Sentiment Analyzer
 
 ## Introduction
 **Amazon Review Sentiment Analyzer** is a web application that makes it easy to gauge what people think about a product at a glance. It automatically scrapes customer reviews from an Amazon product page and analyzes their sentiment using a hybrid model (BERT + VADER). The result is a quick overview of how many reviews are positive, neutral, or negative, along with a concise summary of common themes in the feedback. This saves you time from scrolling through countless reviews by highlighting the overall opinion in just a few seconds.
